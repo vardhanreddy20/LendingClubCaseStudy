@@ -1,5 +1,5 @@
 #Lending Club Case Study 
-The case study has been done in order to solve a business problem of what precautionary measures are to be taken by a consumer finance company 
+>The case study has been done in order to solve a business problem of what precautionary measures are to be taken by a consumer finance company 
 Before lending a loan so that it wont be charged off and will be repayed
 
 
